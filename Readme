@@ -1,1 +1,10 @@
 
+This code was created to produce Ionospheric and Ground Maps as desribed in 
+the publication: 
+
+Methodology to estimate ionospheric scintillation risk maps and their contribution to position dilution of precision on the ground
+Alexandra Koulouri, Nathan D. Smith, Bruno C. Vani, Ville Rimpilainen, Ivan Astin, Biagio Forte
+https://arxiv.org/abs/1911.08229?context=physics
+
+Please cite this publication or any other newer version if you use this code.
+Please contact me (a.koulouri84@gmail.com) if you need help or you spot mistakes! Thank you!
