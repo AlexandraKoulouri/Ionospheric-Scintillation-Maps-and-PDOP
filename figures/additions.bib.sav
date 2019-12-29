@@ -1,0 +1,55 @@
+% Encoding: UTF-8
+
+@Article{Jiao2018,
+  author    = {Yu Jiao and Charles Rino and Yu T. Morton},
+  title     = {Ionospheric Scintillation Simulation on Equatorial {GPS} Signals for Dynamic Platforms},
+  journal   = {Navigation},
+  year      = {2018},
+  volume    = {65},
+  number    = {2},
+  pages     = {263--274},
+  month     = {may},
+  doi       = {10.1002/navi.231},
+  publisher = {Wiley},
+}
+
+@Article{Jiao2018a,
+  author    = {Yu Jiao and Dongyang Xu and Charles L. Rino and Yu T. Morton and Charles S. Carrano},
+  title     = {A Multifrequency {GPS} Signal Strong Equatorial Ionospheric Scintillation Simulator: Algorithm, Performance, and Characterization},
+  journal   = {{IEEE} Transactions on Aerospace and Electronic Systems},
+  year      = {2018},
+  volume    = {54},
+  number    = {4},
+  pages     = {1947--1965},
+  month     = {aug},
+  doi       = {10.1109/taes.2018.2805232},
+  publisher = {Institute of Electrical and Electronics Engineers ({IEEE})},
+}
+
+@Article{Jiao2015,
+  author    = {Yu Jiao and Yu T. Morton},
+  title     = {Comparison of the effect of high-latitude and equatorial ionospheric scintillation on {GPS} signals during the maximum of solar cycle 24},
+  journal   = {Radio Science},
+  year      = {2015},
+  volume    = {50},
+  number    = {9},
+  pages     = {886--903},
+  month     = {sep},
+  doi       = {10.1002/2015rs005719},
+  publisher = {American Geophysical Union ({AGU})},
+}
+
+@Article{Basu2002,
+  author    = {S. Basu and K.M. Groves and Su. Basu and P.J. Sultan},
+  title     = {Specification and forecasting of scintillations in communication/navigation links: current status and future plans},
+  journal   = {Journal of Atmospheric and Solar-Terrestrial Physics},
+  year      = {2002},
+  volume    = {64},
+  number    = {16},
+  pages     = {1745--1754},
+  month     = {nov},
+  doi       = {10.1016/s1364-6826(02)00124-4},
+  publisher = {Elsevier {BV}},
+}
+
+@Comment{jabref-meta: databaseType:bibtex;}
